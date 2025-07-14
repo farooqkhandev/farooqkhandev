@@ -1,6 +1,6 @@
 <!-- Header Image -->
 <p align="center">
-  <img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEigGA7OXLk5l4P6JQBYByth0eiPv5iCpka-NpC495K8HX6W2AnF2A3Gt4Tjbf2ynoPikg57pH_7a7FtocGR44pNmPn8oDowKm1j9H58DMKjZTKNiDlG_92eRU7_XG24XCDKN5pe6BZ0xd4g2ZbN-8XAFj0_2MS9I45FOC3R4YfOyPhEYwdtZOCz0ZHl/s1600/AndroidGDE_Com_banner@2x.png" alt="Android Developer" width="100%" />
+  <img src="https://raw.githubusercontent.com/farooqkhandev/farooqkhandev/master/banner.png" alt="Android Developer" width="100%" />
 </p>
 
 <h1 align="center">👋 Hey there, I'm Farooq Khan — Android Developer</h1>
