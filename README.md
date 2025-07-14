@@ -1,16 +1,49 @@
-## Hi there 👋
+<!-- Header Image -->
+<p align="center">
+  <img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEigGA7OXLk5l4P6JQBYByth0eiPv5iCpka-NpC495K8HX6W2AnF2A3Gt4Tjbf2ynoPikg57pH_7a7FtocGR44pNmPn8oDowKm1j9H58DMKjZTKNiDlG_92eRU7_XG24XCDKN5pe6BZ0xd4g2ZbN-8XAFj0_2MS9I45FOC3R4YfOyPhEYwdtZOCz0ZHl/s1600/AndroidGDE_Com_banner@2x.png" alt="Android Developer" width="100%" />
+</p>
 
-<!--
-**farooqkhandev/farooqkhandev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h1 align="center">👋 Hey there, I'm Farooq Khan — Android Developer</h1>
 
-Here are some ideas to get you started:
+<p align="center">
+  <b>📱 Building intuitive mobile experiences | 💡 Scalable Architecture Specialist | 🔧 Tech Explorer</b>
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🧠 About Me
+
+I'm a **seasoned Android Application Developer** with over **5 years of experience** crafting **robust, scalable, and user-centric mobile solutions**. I specialize in **modular architectures**, **clean code practices**, and building apps that are both elegant and maintainable.
+
+I have a proven track record of:
+- 🧩 Designing scalable mobile architectures using **MVVM**, **MVP**, and **Clean Architecture**
+- 🚀 Delivering high-quality Android applications from concept to release  
+- 🛠 Leading feature development with a focus on performance, accessibility, and UI/UX best practices
+- 🤝 Collaborating closely with cross-functional teams to align development with product goals
+
+> I don't just write code — I design systems that evolve gracefully, grow with user needs, and empower product teams to move fast with confidence.
+
+---
+
+### 🧰 Tools & Tech I Rely On
+
+- 🧱 Architecture: Clean Architecture · MVVM · Modularization · Navigation Component  
+- 🧪 Testing: Espresso · JUnit · Mockito · Robolectric  
+- 🧵 DI: Hilt · Dagger  
+- ⚙️ CI/CD: GitHub Actions · Bitrise · Gradle (Kotlin DSL)  
+- ⚛️ Modern UI: Jetpack Compose · MotionLayout · Material 3  
+- 🛠 Code Quality: Detekt · Ktlint · SonarQube  
+- 📦 Package Management: Gradle · Kotlin DSL  
+
+---
+
+### 📫 Let's Connect
+
+<p>
+  <a href="https://www.linkedin.com/in/farooq-khan-2bb096122/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:farooqajaz097@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</p>
